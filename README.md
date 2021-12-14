@@ -11,3 +11,7 @@ observed_mean_diff  = ( mean(xT) - mean(xC) ) ;
 - purely , Non probabilistic intitution / biased sampled
 - Hence to avoid all above situations we use random sampling / shuffleing datasett 
 
+
+🪚 power of permutation : 
+Simulation | proof test 
+ 🖊️ resampling test | 🖊️ t-test
