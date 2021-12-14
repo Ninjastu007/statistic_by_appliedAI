@@ -13,5 +13,8 @@ observed_mean_diff  = ( mean(xT) - mean(xC) ) ;
 
 
 🪚 power of permutation : 
+
+
 Simulation | proof test 
+
  🖊️ resampling test | 🖊️ t-test
